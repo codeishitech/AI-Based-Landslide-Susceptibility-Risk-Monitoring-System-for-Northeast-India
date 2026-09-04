@@ -1,0 +1,352 @@
+event_id,source,state,district,slide_name,nh_sh_location,latitude,longitude,coord_valid,coord_issue,coord_collision,event_date,date_precision,history_raw,material_involved,movement_type
+GLC_59,GLC,Manipur,,"Chingai-Kuingai(Quingai) route (16 kms), Chingai subdivision, Ukhrul district, Manipur",,25.3098633,94.48214677,True,,False,2010-07-29,day,downpour,,landslide
+GLC_116,GLC,Nagaland,,"National Highway 29 Between Patkai Bridge And Kukidolong, Nagaland",,25.7658,93.9413,True,,False,2013-07-17,day,rain,,mudslide
+GLC_118,GLC,Nagaland,,"National Highway 2 Near Meriema Village, 10 Km Away From Kohima",,25.7131,94.0885,True,,False,2013-07-17,day,rain,,mudslide
+GLC_524,GLC,Manipur,,between Moltuk to New Songjang village,,24.1419,94.1078,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_570,GLC,Nagaland,,"National Highway 2 Near Phesama Village Close To Kisama Naha Heritage Site, Kohima District, Nagaland",,25.616,94.1167,True,,False,2013-07-12,day,downpour,,landslide
+GLC_617,GLC,Nagaland,,"Sahong, Tabu and Pani village under Tadubi police station of Senapati district, NH-39",,25.4769,94.1351,True,,False,2010-10-08,day,downpour,,mudslide
+GLC_653,GLC,Assam,,Lumding-Badarpur section in North Cachar Hills district,,25.5215,93.1645,True,,False,2009-08-20,day,downpour,,landslide
+GLC_689,GLC,Meghalaya,,"Ishok Chingphu(?), Bishnupur, Assam",,25.8833,91.2,True,,False,2010-06-09,day,downpour,,landslide
+GLC_702,GLC,Nagaland,,"NH-39 in Karong area, Manipur",,25.3179,94.0462,True,,False,2010-10-09,day,downpour,,landslide
+GLC_713,GLC,Assam,,National Highway 53 at Nungba in Tamenglong district of Manipur,,24.75,93.4333,True,,False,2007-10-21,day,rain,,landslide
+GLC_760,GLC,Manipur,,"Ukhrul, Manipur",,25.0985,94.3619,True,,False,2013-09-24,day,unknown,,landslide
+GLC_829,GLC,Sikkim,,"Bop, Sikkim",,27.6163,88.6586,True,,False,2015-05-24,day,unknown,,landslide
+GLC_869,GLC,Meghalaya,,"Police CID complex(?), Shillong, Meghalaya",,25.5728,91.885,True,,False,2010-06-28,day,downpour,,landslide
+GLC_879,GLC,Nagaland,,"Techahan Ward, Mon, Nagaland, India",,26.7223,95.0243,True,,False,2016-04-19,day,continuous_rain,,landslide
+GLC_898,GLC,Assam,,The Imphal-Jiribam Section Of Nh-37 In Tamenglong District,,24.7625,93.4341,True,,False,2013-08-17,day,continuous_rain,,landslide
+GLC_901,GLC,Arunachal Pradesh,,"Itanagar, Arunachal Pradesh",,27.0987,93.816,True,,False,2015-06-09,day,continuous_rain,,landslide
+GLC_920,GLC,Assam,,"Paglanala village, Dholai Block, near Dwarbandh locality of the district, Cachar district (could only find district) 45 km from Silchar, Assam",,25.1553,93.028,True,,False,2010-04-01,day,downpour,,landslide
+GLC_946,GLC,Mizoram,,Lawngtlai,,22.533,92.899,True,,False,2007-07-30,day,downpour,,landslide
+GLC_993,GLC,Assam,," between Harangajao and Mailongdisa, Assa,",,25.1175,92.8573,True,,False,2012-06-03,day,downpour,,landslide
+GLC_1023,GLC,Sikkim,,"NH31A, Mile 27 near Rambi",,27.1761,88.5287,True,,False,2009-08-20,day,downpour,,mudslide
+GLC_1028,GLC,Mizoram,,"near Tuivawl(?), Aizawl-Champhai rd, Aizawl district, Mizoram",,23.591,92.9296,True,,False,2010-09-13,day,downpour,,landslide
+GLC_1051,GLC,Sikkim,,"Pangthang, on road b/t Gangtok and North Sikkim",,27.3383,88.6069,True,,False,2007-05-23,day,rain,,landslide
+GLC_1124,GLC,Assam,,"Tamenglong, Manipur",,24.9829,93.5063,True,,False,2013-09-01,day,continuous_rain,,mudslide
+GLC_1144,GLC,Assam,,"Portions of NH 39, Connectin Manipur with Assam via Nagaland",,25.5125,93.3613,True,,False,2011-06-29,day,downpour,,landslide
+GLC_1167,GLC,Manipur,,"Chingai-Kuingai(Quingai) route (16 kms), Chingai subdivision, Ukhrul district, Manipur",,25.31006064,94.48265093,True,,False,2010-08-15,day,downpour,,landslide
+GLC_1226,GLC,Assam,,"Tamei, Tamenglong district on Imphal-Tamenglong (IT) road",,24.9925,93.5,True,,False,2009-08-20,day,downpour,,landslide
+GLC_1238,GLC,Arunachal Pradesh,,Arunachal Pradesh,,28.9205,95.3429,True,,False,2014-06-26,day,continuous_rain,,landslide
+GLC_1241,GLC,Arunachal Pradesh,,"NH 13 10 kilometers from Old Ziro, Arunachal Pradesh, India",,27.6438,93.871,True,,False,2016-06-12,day,downpour,,landslide
+GLC_1258,GLC,Manipur,,"Gaoilung(Gadailong) village(?), Ward 4(?), Tamenglong, Manipur",,24.8286,93.5935,True,,False,2011-05-31,day,downpour,,landslide
+GLC_1271,GLC,Assam,,"Lakhimpur district, Bihpuria, Assam",,27.2298,94.0989,True,,False,2008-06-15,day,downpour,,landslide
+GLC_1293,GLC,Meghalaya,,"Umling, Meghalaya 793102, India",,25.9703,91.8584,True,,False,2015-09-06,day,unknown,,landslide
+GLC_1304,GLC,Meghalaya,,Tura Civil Hospital,,25.5145,90.2023,True,,False,2015-08-18,day,continuous_rain,,landslide
+GLC_1378,GLC,Meghalaya,,Singtam,,25.38,91.88,True,,False,2007-07-26,day,rain,,landslide
+GLC_1380,GLC,Assam,,"Maighuli, Guwahati, Meghalaya",,26.1548,91.7351,True,,False,2011-09-23,day,downpour,,landslide
+GLC_1418,GLC,Mizoram,,Saiha,,22.479,92.967,True,,False,2007-07-30,day,downpour,,landslide
+GLC_1445,GLC,Arunachal Pradesh,,Arunachal Pradesh ,,27.8965,96.1779,True,,False,2010-04-21,day,downpour,,landslide
+GLC_1469,GLC,Nagaland,,"Ruzapfu valley, Kikruma Village, Phek District, Nagaland",,25.6682,94.1099,True,,False,2011-06-28,day,downpour,,landslide
+GLC_1477,GLC,Manipur,,"Holenjang, Chandel district",,24.004,93.9815,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_1498,GLC,Assam,,"road between Haflong and Lanka, Assam",,25.5242,92.9914,True,,False,2010-10-09,day,downpour,,landslide
+GLC_1530,GLC,Manipur,,Manipur,,24.6869,93.9157,True,,False,2011-07-25,day,downpour,,landslide
+GLC_1553,GLC,Arunachal Pradesh,,Lohit District of Arunachal Pradesh,,27.9032,96.174,True,,False,2014-05-08,day,rain,,mudslide
+GLC_1567,GLC,Nagaland,,Maram (80 km north of Imphal),,25.4191,94.1079,True,,False,2011-07-07,day,rain,,landslide
+GLC_1626,GLC,Nagaland,,"road to Oting near Longlam village, 13 km from Tizit subdivision, Mon district, Nagaland",,26.8716,94.9921,True,,False,2010-07-20,day,downpour,,landslide
+GLC_1636,GLC,Meghalaya,,"12th Mile area at Jorabat, Meghalaya, India",,26.09748244,91.8744337,True,,False,2016-07-19,day,unknown,,landslide
+GLC_1642,GLC,Arunachal Pradesh,,"West Kameng, Arunachal Pradesh",,27.4,92.35,True,,False,2008-10-29,day,downpour,,mudslide
+GLC_1644,GLC,Sikkim,,"17th mile(?), Jawaharlal Nehru Marg hwy, between Gangtok and Nathu La, Sikkim",,27.3702,88.7334,True,,False,2010-09-04,day,downpour,,landslide
+GLC_1689,GLC,Manipur,,Manipur,,24.3527,94.3429,True,,False,2011-07-22,day,downpour,,landslide
+GLC_1694,GLC,Nagaland,,"Helipong-Chessore Road, Nagaland",,26.0977,94.7499,True,,False,2013-06-07,day,unknown,,landslide
+GLC_1866,GLC,Arunachal Pradesh,,"road from other districts to Hawai(Tawai?) which is  on Lojit river, near Hayuliang,  Anjaw district, Arunachal Pradesh",,28.0791,96.5242,True,,False,2011-03-22,day,downpour,,landslide
+GLC_1896,GLC,Sikkim,,"Natl. Highway 31-A at Pani House(?), Gangtok",,27.3341,88.6083,True,,False,2010-04-17,day,downpour,,landslide
+GLC_1898,GLC,Nagaland,,"New Land (""""New Colony"""")",,26.0319,94.5466,True,,False,2015-06-24,day,continuous_rain,,landslide
+GLC_1938,GLC,Arunachal Pradesh,,Karsingsa block point,,27.1249,93.7706,True,,False,2014-10-01,day,unknown,,landslide
+GLC_1944,GLC,Nagaland,,"on road between Mon and Tobu near Telangsao Hydro project , Nagaland, India",,26.1677,94.2442,True,,False,2016-06-12,day,continuous_rain,,landslide
+GLC_1963,GLC,Arunachal Pradesh,,"Tirap , Arunachal Pradesh",,27.174,95.8011,True,,False,2012-06-25,day,downpour,,landslide
+GLC_1970,GLC,Arunachal Pradesh,,"Endulin Nallah, Mayodia, 17-camp, 83-camp",,28.4659,95.86,True,,False,2012-04-08,day,downpour,,landslide
+GLC_2002,GLC,Assam,,"NH-53 at Nungba police station, Kambirong(?), Manipur",,24.7505,93.4221,True,,False,2010-08-27,day,downpour,,landslide
+GLC_2005,GLC,Manipur,,"15 kms from Maram, National Highway-102/A (Maram Peren road)",,25.4477,94.0489,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_2013,GLC,Nagaland,,"Nanga, Nagaland",,26.284,94.5808,True,,False,2013-08-04,day,continuous_rain,,landslide
+GLC_2014,GLC,Assam,,"Lalunggaon, Guwahati,  Assam",,26.149,91.7351,True,,False,2012-06-20,day,downpour,,landslide
+GLC_2015,GLC,Assam,,"Kaiphundai(?)-Tousem(in Assam) road, Tamenglong district, Manipur",,25.0672,93.4093,True,,False,2011-05-22,day,downpour,,landslide
+GLC_2024,GLC,Manipur,,between Chalong and Paraolon,,24.1988,94.1016,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_2141,GLC,Arunachal Pradesh,,Upper Subansiri,,27.8776,94.25,True,,False,2013-06-01,day,downpour,,landslide
+GLC_2163,GLC,Assam,,"Guwahati, Assam",,26.1475,91.7356,True,,False,2012-06-02,day,downpour,,landslide
+GLC_2178,GLC,Manipur,,"Tamenglong- Khongsang Road, Manipur",,24.9037,93.487,True,,False,2013-09-01,day,continuous_rain,,mudslide
+GLC_2210,GLC,Manipur,,22 kms to 30 kms between Sangkungmai and Willong,,25.4538,93.9827,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_2217,GLC,Nagaland,,"Thillong Village, Doyang Along State Highway 1, Wokha To Merapani Road",,26.1147,94.3864,True,,False,2013-07-01,day,downpour,,landslide
+GLC_2263,GLC,Sikkim,,Rhodong village near Rhey in East Sikkim,,27.3425,88.6236,True,,False,2007-09-10,day,rain,,landslide
+GLC_2268,GLC,Assam,,"Bilaipur, Hailakandi district, Assam, India",,24.5202,92.7239,True,,False,2016-05-18,day,continuous_rain,,landslide
+GLC_2281,GLC,Manipur,,Tamenglong Ward No-IV,,24.9818,93.5142,True,,False,2015-07-24,day,monsoon,,mudslide
+GLC_2370,GLC,Assam,,Noonmati,,26.1985,91.7998,True,,False,2014-09-22,day,rain,,landslide
+GLC_2372,GLC,Nagaland,,"National Highway 29 Near Phesama Village, Nagaland",,25.6269,94.1139,True,,False,2013-07-12,day,downpour,,landslide
+GLC_2452,GLC,Manipur,,"NH-39 at Imphal-Moreh section, Lokchao largest event",,24.4279,94.0564,True,,False,2007-09-11,day,rain,,landslide
+GLC_2497,GLC,Assam,,"Longlem, Nagaland",,26.8727,94.9275,True,,False,2013-08-16,day,rain,,landslide
+GLC_2502,GLC,Arunachal Pradesh,,"districts Lakhimpur, Dhemaji, Golaghat, and Sonitpur, Assam province",,27.0011,93.7273,True,,False,2010-09-10,day,downpour,,landslide
+GLC_2518,GLC,Mizoram,,"Zembabawk, Aizawl",,23.7327,92.7463,True,,False,2014-07-14,day,downpour,,landslide
+GLC_2560,GLC,Sikkim,,"15 Km From Gangtok, Himalayans",,27.3721,88.708,True,,False,2013-06-08,day,downpour,,landslide
+GLC_2577,GLC,Meghalaya,,"Rongthragittim Songittal village, near Sibbari, South Garo Hills District, Meghalaya, India",,25.203,90.5573,True,,False,2016-07-19,day,continuous_rain,,translational_slide
+GLC_2602,GLC,Nagaland,,"Tuensang-Kohima rd, 3 km outside Tuensang, Nagaland",,26.1984,94.8158,True,,False,2010-08-19,day,downpour,,landslide
+GLC_2607,GLC,Assam,,"Sonachirra, Karimganj district, Assam, India",,24.4638,92.4943,True,,False,2016-05-18,day,continuous_rain,,landslide
+GLC_2655,GLC,Mizoram,,"road to Muanna Godown, Zuangtui, Mizoram",,23.75406693,92.74128531,True,,False,2010-09-13,day,downpour,,landslide
+GLC_2677,GLC,Nagaland,,"Kiphire-Tuensang rd, Nagaland",,26.0814,94.803,True,,False,2010-08-14,day,downpour,,landslide
+GLC_2690,GLC,Nagaland,,"National Highway 2, near Kohima, Nagaland, India",,25.7902,94.1318,True,,False,2016-07-10,day,downpour,,landslide
+GLC_2703,GLC,Manipur,,"2 km from Khongsang village(?), road between Tamenglong and Imphal or Nungba, Manipur",,24.8961,93.4957,True,,False,2010-08-19,day,downpour,,mudslide
+GLC_2707,GLC,Sikkim,,"Takdah, West Bengal",,27.0377,88.3603,True,,False,2012-09-14,day,downpour,,landslide
+GLC_2758,GLC,Assam,,"Satgarakul Village, Karimganj, Assam State",,24.8669,92.3576,True,,False,2014-05-09,day,rain,,landslide
+GLC_2760,GLC,Nagaland,,Phesema area at National Highway 39,,25.7428,93.9136,True,,False,2007-08-28,day,rain,,landslide
+GLC_2798,GLC,Mizoram,,Sailam village,,23.3572,92.7878,True,,False,2015-08-26,day,continuous_rain,,landslide
+GLC_2802,GLC,Nagaland,,"Kisima, Nagaland",,25.61560252,94.11603493,True,,False,2010-08-19,day,downpour,,landslide
+GLC_2806,GLC,Nagaland,,"Shayoung Ward(?), Longleng, Nagaland",,26.4333,94.8833,True,,False,2010-06-17,day,downpour,,landslide
+GLC_2869,GLC,Assam,,Dakhingaon,,26.1314,91.7548,True,,False,2014-09-22,day,rain,,landslide
+GLC_2905,GLC,Nagaland,,"North Point Colony, Akuluto, Nagaland, India",,26.1699,94.4922,True,,False,2016-07-11,day,unknown,,landslide
+GLC_2908,GLC,Assam,,North Lakhimpur ,,27.2333,94.1167,True,,False,2008-10-29,day,downpour,,landslide
+GLC_2919,GLC,Mizoram,,"National Highway, 45 Aizwal (Mizoram)",,24.1293,92.6921,True,,False,2007-09-29,day,rain,,landslide
+GLC_2934,GLC,Manipur,,"Ikou-Gangpijang road, near: Ikou, Saikul, and Gangpijang; Imphal India",,25.03561729,94.0144205,True,,False,2011-06-28,day,rain,,landslide
+GLC_2956,GLC,Nagaland,,"Koide Government High School, Senapati, Manipur",,25.3833,94.1884,True,,False,2013-08-15,day,downpour,,landslide
+GLC_2969,GLC,Assam,,Kamakhya Temple,,26.1666,91.7042,True,,False,2015-09-23,day,continuous_rain,,landslide
+GLC_2994,GLC,Nagaland,,"Kuthur – Huker Road Via Y Anner, Chessore, Nagaland",,26.0977,94.7031,True,,False,2013-06-07,day,unknown,,landslide
+GLC_3047,GLC,Manipur,,"Imphal-Dimapur road  in Tadubi, Senapati district, Manipur, India",,25.48,94.1383,True,,False,2016-07-25,day,continuous_rain,,landslide
+GLC_3076,GLC,Nagaland,,"National Highway 29 Near Phesama Village, Nagaland",,25.6269,94.1139,True,,False,2013-07-15,day,rain,,landslide
+GLC_3086,GLC,Assam,,Lakhipur,,24.7979,92.9974,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_3111,GLC,Assam,,Garchuk,,26.1044,91.7082,True,,False,2014-09-22,day,rain,,landslide
+GLC_3184,GLC,Manipur,,"Namkaoluang village, Tamenglong-Sangrung (Khongsang) road, NH-53, Manipur",,24.9336,93.8275,True,,False,2008-06-19,day,monsoon,,mudslide
+GLC_3211,GLC,Nagaland,,"Yakshu, Nagaland",,26.4205,94.9731,True,,False,2013-08-16,day,rain,,landslide
+GLC_3220,GLC,Arunachal Pradesh,,Itanagar,,27.1034,93.6885,True,,False,2011-08-05,day,downpour,,landslide
+GLC_3226,GLC,Arunachal Pradesh,,"East Kameng, Arunachal Pradesh",,27.4888,93.0153,True,,False,2011-08-15,day,downpour,,landslide
+GLC_3240,GLC,Manipur,,"Tuitung village, Khengjoi",,23.899,94.1434,True,,False,2015-08-01,day,rain,,landslide
+GLC_3275,GLC,Manipur,,"Imphal-Ukhrul sector of National Highway 102, Manipur, India",,25.0118,94.3136,True,,False,2016-07-07,day,monsoon,,landslide
+GLC_3281,GLC,Arunachal Pradesh,,"East Siang, Arunachal Pradesh",,28.1193,95.1645,True,,False,2013-02-18,day,rain,,landslide
+GLC_3289,GLC,Manipur,,Tousem,,25.1019,93.3729,True,,False,2015-08-11,day,continuous_rain,,landslide
+GLC_3333,GLC,Sikkim,,"Singtam-Mangan rd, Sikkim",,27.3773,88.559,True,,False,2010-07-21,day,downpour,,landslide
+GLC_3334,GLC,Nagaland,,"Tuensang, Nagaland",,26.2363,94.8133,True,,False,2010-07-06,day,monsoon,,mudslide
+GLC_3337,GLC,Nagaland,,Phesama,,25.6278,94.1051,True,,False,2015-08-19,day,continuous_rain,,landslide
+GLC_3381,GLC,Mizoram,,"Hunthar Veng, Mizoram",,23.74182634,92.7141905,True,,False,2010-09-13,day,downpour,,landslide
+GLC_3384,GLC,Tripura,,Sabroom,,23.0137,91.7174,True,,False,2014-08-14,day,downpour,,mudslide
+GLC_3414,GLC,Sikkim,,"Near Changu Lake, 15Km Away From Nathu La, On India-China Border In Eastern Sikkim",,27.3765,88.7628,True,,False,2013-06-27,day,downpour,,landslide
+GLC_3444,GLC,Nagaland,,"Noklak-Tuensang road, Nagaland",,26.222,94.9152,True,,False,2010-08-14,day,downpour,,landslide
+GLC_3448,GLC,Nagaland,,"Zunheboto, Nagaland",,26.0137,94.5163,True,,False,2013-08-04,day,continuous_rain,,landslide
+GLC_3459,GLC,Assam,,Narakasur,,26.1407,91.7645,True,,False,2014-06-26,day,continuous_rain,,landslide
+GLC_3463,GLC,Assam,,NH 37 at Awang Khul ,,24.808,93.117,True,,False,2011-09-06,day,rain,,landslide
+GLC_3528,GLC,Meghalaya,,"Nakham Bazaar, Tura, Meghalaya",,25.5114,90.215,True,,False,2015-06-16,day,downpour,,landslide
+GLC_3540,GLC,Nagaland,,"Kiphire,  Nagaland",,25.8877,94.7861,True,,False,2010-07-06,day,monsoon,,mudslide
+GLC_3548,GLC,Nagaland,,"Lower Chandmari area, PWD department, Kohima, Manipur",,25.6623,94.1072,True,,False,2010-10-10,day,downpour,,landslide
+GLC_3550,GLC,Assam,,"Kamrup district, Assam, India",,25.9611,91.3681,True,,False,2016-07-07,day,continuous_rain,,landslide
+GLC_3555,GLC,Manipur,,"LangthAbal Khoupum, Imphal, Manipur",,24.7339,93.9161,True,,False,2010-03-27,day,downpour,,mudslide
+GLC_3589,GLC,Assam,,"Raj Bhavan Guwahati, Assam",,26.1978,91.7665,True,,False,2010-04-20,day,downpour,,landslide
+GLC_3595,GLC,Manipur,,Phungyar road,,24.819,94.3551,True,,False,2015-07-31,day,continuous_rain,,landslide
+GLC_3631,GLC,Meghalaya,,"Ratacherra village along the NH-44 connecting to Barak Valley in Assam and Tripura, Meghalaya, Mizoramon",,25.463,92.2121,True,,False,2015-06-13,day,continuous_rain,,landslide
+GLC_3642,GLC,Manipur,,between Maku village and Kamjong sub division,,24.9111,94.4759,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_3658,GLC,Arunachal Pradesh,, Arunachal Pradesh ,,27.8458,95.2253,True,,False,2012-09-19,day,downpour,,landslide
+GLC_3697,GLC,Tripura,,"atharamura hills, Highway 44, Tripura",,23.8986,91.7599,True,,False,2010-06-03,day,downpour,,landslide
+GLC_3726,GLC,Nagaland,,"NH-39 near Khongnem(?) village, between Imphal and Dimapur, Manipur",,25.5265,93.8673,True,,False,2010-10-09,day,downpour,,landslide
+GLC_3775,GLC,Assam,,"Dispur : According to report, a huge hillock slipped into the house after heavy rain where Dinesh Bodo along with his wife and daughter lived in. Thi*",,26.1062,91.8717,True,,False,2015-07-25,day,continuous_rain,,landslide
+GLC_3844,GLC,Nagaland,,"NH-39 at Tobio village(?), 7 km form Tadubi, Manipur",,25.4788,94.1399,True,,False,2010-10-09,day,downpour,,landslide
+GLC_3957,GLC,Meghalaya,,South West Garo Hills,,25.5006,90.0896,True,,False,2014-10-20,day,rain,,landslide
+GLC_3966,GLC,Assam,,"Nursery, North Guwahati, Guwahati, Assam,",,26.1662,91.7138,True,,False,2013-05-11,day,rain,,landslide
+GLC_3976,GLC,Nagaland,,"Tizu, Nagaland",,25.8376,94.5234,True,,False,2013-08-04,day,continuous_rain,,landslide
+GLC_3984,GLC,Nagaland,,"Phizo, Nagaland",,26.0481,94.4619,True,,False,2013-08-04,day,continuous_rain,,landslide
+GLC_3995,GLC,Assam,,Batahghuli,,26.1324,91.8342,True,,False,2014-09-22,day,rain,,landslide
+GLC_4038,GLC,Sikkim,,"Rolep, South Sikkim( Mapping to Rhenock 12 miles from Rolep)",,27.1748,88.6458,True,,False,2012-06-07,day,rain,,landslide
+GLC_4063,GLC,Nagaland,,"Government Middle School (GMS) Kiphire station “B”, Kiphire, Nagaland, India",,25.8702,94.7844,True,,False,2016-07-28,day,downpour,,landslide
+GLC_4064,GLC,Nagaland,,Zunheboto district,,26.0214,94.5224,True,,False,2015-08-19,day,continuous_rain,,landslide
+GLC_4082,GLC,Manipur,,Nungba,,24.7459,93.4251,True,,False,2015-08-11,day,continuous_rain,,landslide
+GLC_4122,GLC,Meghalaya,,National Highway 44,,25.2568,92.3825,True,,False,2015-08-19,day,rain,,landslide
+GLC_4132,GLC,Arunachal Pradesh,,Hawai,,27.8835,96.9262,True,,False,2015-08-16,day,continuous_rain,,landslide
+GLC_4146,GLC,Arunachal Pradesh,,"Hayuliang, Anjaw district,Arunachal Pradesh, India",,28.0822,96.5316,True,,False,2016-05-01,day,downpour,,landslide
+GLC_4159,GLC,Assam,,Dhirenpara,,26.1295,91.7056,True,,False,2014-09-22,day,rain,,landslide
+GLC_4174,GLC,Sikkim,,"many locations around Namchi, Sikkim",,27.167,88.3652,True,,False,2010-08-20,day,downpour,,complex
+GLC_4221,GLC,Nagaland,,"NH 39 at Kigwema(?), between Mao Gate and Kohima, Nagaland",,25.5718,94.1211,True,,False,2010-08-21,day,downpour,,landslide
+GLC_4233,GLC,Nagaland,,"Zhekuto, Nagaland",,26.1807,94.5497,True,,False,2013-08-04,day,monsoon,,landslide
+GLC_4245,GLC,Sikkim,,"17th Mile towards Tsomgo Lake, near Kyongsala, Sikkim ",,27.3746,88.7648,True,,False,2009-08-26,day,rain,,landslide
+GLC_4261,GLC,Assam,,"Noonmati Nijarapar area of the city, Guwahati, Assam, India",,26.1963,91.8074,True,,False,2016-07-14,day,monsoon,,landslide
+GLC_4307,GLC,Manipur,,"Phek, Manipur",,25.6633,94.4703,True,,False,2010-10-08,day,downpour,,complex
+GLC_4415,GLC,Sikkim,,West Bengal-Sikkim at highway Rambi,,26.99195749,88.42280921,True,,False,2011-07-17,day,rain,,landslide
+GLC_4580,GLC,Assam,,VIP Road,,26.159,91.8178,True,,False,2014-09-22,day,rain,,landslide
+GLC_4585,GLC,Assam,,"Kamrup, and Sonitpur, Assam",,26.3333,91.25,True,,False,2008-10-29,day,downpour,,landslide
+GLC_4587,GLC,Nagaland,,"Walo Ward, Mon Town, Wokha District, Nagaland",,26.72,95.029,True,,False,2013-07-01,day,downpour,,landslide
+GLC_4588,GLC,Nagaland,,"Maram, Manipur",,25.4192,94.108,True,,False,2011-07-29,day,rain,,landslide
+GLC_4605,GLC,Sikkim,,14 Milestone Of J N Marg Near Kyangnosola (East Sikkim),,27.3736,88.7323,True,,False,2013-09-07,day,rain,,landslide
+GLC_4621,GLC,Assam,,between Mahur and Phaiding railway stations on Barail hills (Mahur and Barail hills located),,25.1718,93.123,True,,False,2009-08-27,day,downpour,,landslide
+GLC_4695,GLC,Manipur,,"Tusom, Manipur",,25.426,94.6024,True,,False,2013-10-13,day,downpour,,mudslide
+GLC_4706,GLC,Nagaland,,"Zunheboto, Nagaland",,26.0093,94.5238,True,,False,2010-07-06,day,monsoon,,mudslide
+GLC_4716,GLC,Arunachal Pradesh,,Arunachal Pradesh,,27.1614,93.7525,True,,False,2013-09-02,day,downpour,,landslide
+GLC_4721,GLC,Assam,,Maligaon,,26.1868,91.6739,True,,False,2015-09-01,day,rain,,rock_fall
+GLC_4723,GLC,Nagaland,,"Lasumi village in Phek district, Kohima",,25.51614662,94.2341227,True,,False,2011-06-21,day,rain,,landslide
+GLC_4832,GLC,Assam,,NH 37,,26.5836,93.0038,True,,False,2011-07-24,day,downpour,,landslide
+GLC_4852,GLC,Manipur,,"Velnal village, Tamei sub-division and Toribari village (3 kilometer toward Tamei from Kangpokpi)",,25.1333,93.9667,True,,False,2007-08-31,day,rain,,landslide
+GLC_4855,GLC,Meghalaya,,National Highway No 44 at Sonarpur in Meghalaya,,25.5576,91.8506,True,,False,2007-08-26,day,rain,,complex
+GLC_4868,GLC,Manipur,,Naga Gate along the Ukhrul-Imphal route,,25.0634,94.3415,True,,False,2015-07-31,day,continuous_rain,,mudslide
+GLC_4878,GLC,Manipur,,"Tharon(?) and Langol Tarung villages, Thangmeiband constituency, Imphal, Manipur",,24.837,93.9128,True,,False,2010-10-08,day,downpour,,landslide
+GLC_4897,GLC,Sikkim,,Bardang near Singtam,,27.1499,88.38,True,,False,2007-07-16,day,rain,,mudslide
+GLC_4909,GLC,Sikkim,,"4th Mile on road between Rongli, Rhenock and Rangpo in East Sikkim.",,27.1954,88.6115,True,,False,2009-09-17,day,rain,,landslide
+GLC_4933,GLC,Arunachal Pradesh,,"Itanagar (one near Pachali power house, one near Heema Hospital, and one nearRomik Colony at P Sector)",,27.1032,93.6884,True,,False,2011-07-19,day,downpour,,landslide
+GLC_4966,GLC,Meghalaya,,"Borsorsa(?), West Khasi Hills, Meghalaya",,25.4916,91.2698,True,,False,2010-06-28,day,downpour,,landslide
+GLC_5006,GLC,Assam,,"Kimin-Ziro road in Papum Pare district, road between Doimukh and Sagalee, Doimukh-Hoj road; Arunachal Pradesh",,27.163,94.0,True,,False,2008-08-14,day,rain,,landslide
+GLC_5033,GLC,Assam,,"Bhangagarh, Assam",,26.1619,91.7697,True,,False,2014-06-27,day,rain,,landslide
+GLC_5045,GLC,Manipur,,"Lower Shajouba village near Tadubi along NH 39, Manipur ",,25.0604,93.9877,True,,False,2007-09-08,day,rain,,landslide
+GLC_5048,GLC,Assam,,"NH44, Malidhor area,  Baleswar",,25.0951,92.3567,True,,False,2012-06-13,day,downpour,,landslide
+GLC_5063,GLC,Arunachal Pradesh,,Mebua (8 km from Seppa),,27.2743,92.9064,True,,False,2011-07-16,day,downpour,,landslide
+GLC_5107,GLC,Assam,,Hatsingimari,,25.7238,89.9032,True,,False,2014-09-23,day,continuous_rain,,landslide
+GLC_5123,GLC,Assam,,"A Cachar District village, near village of Srinager, Assam",,24.9849,92.8411,True,,False,2008-05-20,day,mining,,mudslide
+GLC_5168,GLC,Manipur,,Willong-Yangkhullen stretch,,25.5007,93.9854,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_5224,GLC,Mizoram,,"Taithu village, Churanchandpur district, Mizoram, Manipur",,24.3069,93.125,True,,False,2010-09-16,day,downpour,,landslide
+GLC_5229,GLC,Nagaland,,between Phesama and Kuima in Nagaland,,25.6263,94.1057,True,,False,2015-08-20,day,continuous_rain,,landslide
+GLC_5271,GLC,Arunachal Pradesh,,Arunachal Pradesh,,28.1737,94.7596,True,,False,2015-08-18,day,unknown,,landslide
+GLC_5274,GLC,Arunachal Pradesh,,Arunachal Pradesh/Itanagar,,27.0869,93.6086,True,,False,2014-08-17,day,downpour,,landslide
+GLC_5319,GLC,Mizoram,,Phullen’s main road,,23.8447,93.0514,True,,False,2015-08-26,day,continuous_rain,,mudslide
+GLC_5369,GLC,Meghalaya,,Mawbah under Mawprem area,,25.5772,91.8666,True,,False,2014-09-23,day,continuous_rain,,landslide
+GLC_5380,GLC,Meghalaya,,"NH44, Kuliang",,25.5498,92.0757,True,,False,2012-06-13,day,downpour,,landslide
+GLC_5391,GLC,Manipur,,"Imphal-Jiribam section of NH-37 , Manipur",,24.8142,93.5444,True,,False,2012-06-10,day,downpour,,landslide
+GLC_5393,GLC,Sikkim,,Tamabong Village In Sikkim State,,27.3425,88.2426,True,,False,2013-09-01,day,downpour,,landslide
+GLC_5426,GLC,Assam,,"road between Halfong and Redzol(?) or Silchar, Assam",,25.0477,92.801,True,,False,2010-07-25,day,downpour,,landslide
+GLC_5435,GLC,Nagaland,,"NH-39 near Kohima Municipality Council(KMC) dumping ground, between Zubza(Sechu) and Kohima, Nagaland",,25.70223725,94.04619681,True,,False,2010-08-13,day,downpour,,landslide
+GLC_5478,GLC,Nagaland,,"lower Majakong Ward, Mokokchung, Nagaland, India",,26.3185,94.5247,True,,False,2016-06-14,day,continuous_rain,,landslide
+GLC_5496,GLC,Assam,,Bamunimaidam,,26.1844,91.7896,True,,False,2014-06-26,day,continuous_rain,,landslide
+GLC_5528,GLC,Manipur,,Wamkhu village along the Tengnoupal-Joupi road in Chandel district,,24.2451,94.0691,True,,False,2007-09-10,day,rain,,landslide
+GLC_5557,GLC,Nagaland,,Phesama village,,25.6237,94.1136,True,,False,2015-08-12,day,continuous_rain,,mudslide
+GLC_5597,GLC,Sikkim,,"Namchi to Phongla, Namchi to Melli ,Namchi to Sumbuk",,27.1675,88.3651,True,,False,2012-09-16,day,downpour,,landslide
+GLC_5671,GLC,Manipur,,between Bongyang and Lokchao along the Imphal-Moreh highway,,24.4072,94.0644,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_5686,GLC,Mizoram,,"Aizawl-Lengpui rd 3km from Aizawl, Mizoram, Manipur",,23.7527,92.694,True,,False,2010-09-16,day,downpour,,landslide
+GLC_5709,GLC,Nagaland,,"Akuk village, Wokha District, Nagaland",,26.138,94.25,True,,False,2008-08-19,day,downpour,,mudslide
+GLC_5739,GLC,Manipur,,near S Lamphei Lamkhai and Sehlon village,,23.9939,94.0573,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_5740,GLC,Assam,,Amingaon,,26.49349035,91.72137514,True,,False,2015-09-01,day,rain,,landslide
+GLC_5797,GLC,Nagaland,,"Kohima, Nagaland",,25.67,94.1066,True,,False,2008-08-29,day,downpour,,complex
+GLC_5834,GLC,Manipur,,Dimapur-Imphal highway (NH 39) near Manipur,,24.9356,93.8443,True,,False,2010-07-31,day,rain,,landslide
+GLC_5905,GLC,Manipur,,"Irang(?) and Barak(?) and Makru(?) on highway 53 between Imphal and Jiribam, Manipur",,24.7543,93.5039,True,,False,2010-06-07,day,rain,,landslide
+GLC_5950,GLC,Mizoram,,"Muanna locality, Mizoram",,23.7131,92.7362,True,,False,2015-06-19,day,rain,,landslide
+GLC_5968,GLC,Nagaland,,"Tobu, Nagaland",,26.3897,94.9439,True,,False,2013-08-16,day,rain,,landslide
+GLC_6011,GLC,Meghalaya,,Tongseng,,25.1416,92.3807,True,,False,2015-08-19,day,rain,,landslide
+GLC_6035,GLC,Mizoram,,"Chhinga Veng, Aizawl",,23.73478778,92.72124394,True,,False,2009-10-05,day,downpour,,landslide
+GLC_6038,GLC,Assam,,"Piyali Phukan Nagar, Guwahati, India",,26.1961,91.7825,True,,False,2016-06-22,day,downpour,,mudslide
+GLC_6046,GLC,Meghalaya,,National Highway at Kuliang,,25.0728,92.3636,True,,False,2015-08-19,day,rain,,landslide
+GLC_6090,GLC,Sikkim,,Rangpo,,27.172,88.5292,True,,False,2016-10-15,day,downpour,,landslide
+GLC_6157,GLC,Mizoram,,"Aizawl, Mizoram, India",,23.7313,92.7187,True,,False,2015-09-14,day,downpour,,landslide
+GLC_6225,GLC,Manipur,,Tamei constituency in Tamenlong district,,25.1604,93.6795,True,,False,2012-03-04,day,unknown,,landslide
+GLC_6244,GLC,Sikkim,,"Ranka, Sikkim and Louing road",,27.337,88.609,True,,False,2008-08-28,day,downpour,,landslide
+GLC_6277,GLC,Sikkim,,"Nam Nang, Gangtok",,27.322,88.6087,True,,False,2010-04-17,day,downpour,,landslide
+GLC_6286,GLC,Arunachal Pradesh,,"Anini-Roing road,  Dibang Valley,  Arunachal Pradesh ",,28.4298,95.8776,True,,False,2010-05-31,day,downpour,,landslide
+GLC_6290,GLC,Assam,,"Bilaipur, Hailakandi district, Assam, India",,24.5204,92.7264,True,,False,2016-05-18,day,continuous_rain,,landslide
+GLC_6295,GLC,Arunachal Pradesh,,"Old Inspection Bungalow, Bhalukpong town, West Kameng, Arunachal Pradesh, India",,27.0136,92.6351,True,,False,2016-07-01,day,downpour,,landslide
+GLC_6328,GLC,Arunachal Pradesh,,"Itanagar-Naharlagun, Arunachal Pradesh",,27.0998,93.6287,True,,False,2008-06-14,day,rain,,landslide
+GLC_6339,GLC,Assam,,"Sarania Hills, North Guwahati, Guwahati, Assam,",,26.1771,91.7599,True,,False,2013-05-11,day,rain,,landslide
+GLC_6357,GLC,Arunachal Pradesh,,"Khonsa, Arunachal Pradesh",,26.9986,95.4993,True,,False,2012-06-25,day,downpour,,landslide
+GLC_6360,GLC,Assam,,"Chumukedima, Dimapur",,25.7713,93.8067,True,,False,2011-08-13,day,downpour,,mudslide
+GLC_6396,GLC,Arunachal Pradesh,,"Polo River At Polosang, Arunachal Pradesh",,27.8837,93.0515,True,,False,2013-08-01,day,rain,,mudslide
+GLC_6401,GLC,Sikkim,,200 meters from Teesta Bridge towards Siliguri,,27.05374234,88.42572376,True,,False,2011-07-19,day,rain,,landslide
+GLC_6439,GLC,Manipur,,"National Highway 53, Sinam Khul (near Kotlen; ~25 km from Imphal)",,24.8063,93.9482,True,,False,2011-07-06,day,downpour,,landslide
+GLC_6462,GLC,Mizoram,,"Hual(Hu) village(?), Lunglei-Lawngtlai rd, Mizoram",,22.7176,92.8416,True,,False,2010-09-13,day,downpour,,landslide
+GLC_6463,GLC,Arunachal Pradesh,,"Upper Subansiri District, Arunanchal Pradesh",,27.7,92.8,True,,False,2009-08-12,day,downpour,,landslide
+GLC_6471,GLC,Manipur,,Yangkhullen-Tamphung road till Nagaland border,,25.5098,93.8794,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_6488,GLC,Manipur,,"Road stretch from Gammom to Chamu village, under Kamjong block, Ukhrul district, Manipur",,24.8628,94.4182,True,,False,2009-08-30,day,downpour,,landslide
+GLC_6523,GLC,Assam,,"Highway 53 at Tupul, Tamenglong district",,24.9786,93.5027,True,,False,2010-07-29,day,downpour,,landslide
+GLC_6536,GLC,Assam,,Shillong Road at Kuliang in the Jaintia Hills,,25.2946,92.8339,True,,False,2007-08-26,day,rain,,landslide
+GLC_6579,GLC,Assam,,Lalunggaon near Gorchuk area,,26.1226,91.7162,True,,False,2012-06-22,day,downpour,,landslide
+GLC_6580,GLC,Meghalaya,,"Shillong, Meghalaya, India",,25.583,91.893,True,,False,2015-09-23,day,downpour,,landslide
+GLC_6618,GLC,Assam,,Rongpur village under Bhairabhnagar panchayat in Karimganj district,,24.6005,92.3814,True,,False,2010-06-03,day,downpour,,landslide
+GLC_6667,GLC,Arunachal Pradesh,,"Tawang, Arunachal Pradesh",,27.5799,91.8569,True,,False,2016-04-22,day,continuous_rain,,landslide
+GLC_6704,GLC,Arunachal Pradesh,,Babrang village under Jang circle in Tawang district,,27.5754,91.9754,True,,False,2016-08-05,day,downpour,,landslide
+GLC_6711,GLC,Arunachal Pradesh,,East Kameng district in Arunachal Pradesh bordering China,,27.44,92.2833,True,,False,2011-08-12,day,rain,,landslide
+GLC_6740,GLC,Nagaland,,"Longsa, Nagaland",,26.2083,94.5438,True,,False,2013-08-04,day,monsoon,,landslide
+GLC_6760,GLC,Manipur,,"near Kuloor church, in Manipur along National Highway",,24.6596,93.9784,True,,False,2008-06-09,day,monsoon,,landslide
+GLC_6776,GLC,Nagaland,,"Chiechama, Nagaland",,25.8266,94.1497,True,,False,2013-10-05,day,continuous_rain,,mudslide
+GLC_6851,GLC,Assam,,"Pub Sarania hill, South Sarania, Guwahati, Assam, India",,26.1768,91.7702,True,,False,2016-07-14,day,monsoon,,landslide
+GLC_6861,GLC,Arunachal Pradesh,,"Koloriang, Kuring Kumey district, Arunachal Pradesh",,27.8997,93.3497,True,,False,2010-04-02,day,downpour,,mudslide
+GLC_6869,GLC,Sikkim,,"NH-10, Sepi Jhora, Kalimpong",,27.0816,88.4397,True,,False,2015-07-07,day,continuous_rain,,landslide
+GLC_6962,GLC,Mizoram,,"Laipuitland , Aizawl, Mizoram",,23.7281,92.7175,True,,False,2013-05-11,day,rain,,landslide
+GLC_6979,GLC,Manipur,,"amei to Kangpokpi via Imphal road, 0.5 km from Tamei, Tamenglang District",,25.16,93.686,True,,False,2015-06-19,day,monsoon,,landslide
+GLC_7011,GLC,Meghalaya,,"National highway 44 at Sunapur and Tongseng in Jaintia Hills district, eastern Meghalaya",,25.3433,92.2897,True,,False,2010-05-11,day,downpour,,landslide
+GLC_7019,GLC,Arunachal Pradesh,,"Tawang Monastery, Arunachal Pradesh",,27.5798729,91.85672387,True,,False,2010-11-22,day,unknown,,landslide
+GLC_7046,GLC,Assam,,"Boragaon, North Guwahati, Guwahati, Assam,",,26.1016,91.6906,True,,False,2013-05-11,day,rain,,landslide
+GLC_7047,GLC,Mizoram,,"Kolasib, Saiha, Mizoram,",,24.2315,92.6755,True,,False,2013-05-07,day,rain,,mudslide
+GLC_7059,GLC,Assam,,"Kharghuli, Guwahati, Assam",,26.1965,91.763,True,,False,2010-04-20,day,downpour,,landslide
+GLC_7110,GLC,Assam,,Natonal Highway in Jorabat area,,26.1028,91.8806,True,,False,2015-08-22,day,continuous_rain,,landslide
+GLC_7210,GLC,Nagaland,,"Suruhuto Town, Nagaland",,26.0838,94.564,True,,False,2013-08-04,day,rain,,landslide
+GLC_7245,GLC,Mizoram,,"National Highway 54, at Kawnpui town",,24.042,92.6724,True,,False,2015-08-27,day,downpour,,landslide
+GLC_7286,GLC,Arunachal Pradesh,,Itanagar/Naharlagur/Nirjuli,,27.125,93.7145,True,,False,2011-07-15,day,downpour,,landslide
+GLC_7314,GLC,Arunachal Pradesh,,"Dibang Valley, Arunachal Pradesh",,28.8254,96.1509,True,,False,2013-04-07,day,rain,,landslide
+GLC_7334,GLC,Manipur,,Senam,,24.416,94.0984,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_7342,GLC,Nagaland,,"Yakshu, Nagaland",,26.4205,94.9731,True,,False,2013-08-30,day,unknown,,mudslide
+GLC_7422,GLC,Nagaland,,"NH-39 at Ekai village(?), 2 km for Tadubi, Manipur",,25.4786,94.1327,True,,False,2010-08-27,day,downpour,,landslide
+GLC_7436,GLC,Nagaland,,NH-61 between Botsa and Chiechama,,25.8782,94.1739,True,,False,2011-07-01,day,downpour,,landslide
+GLC_7440,GLC,Sikkim,,Namchi,,27.1695,88.3664,True,,False,2016-10-15,day,rain,,landslide
+GLC_7468,GLC,Assam,,Ratacherra,,25.0318,92.4584,True,,False,2015-03-19,day,rain,,landslide
+GLC_7486,GLC,Arunachal Pradesh,,"Gosang Village Under Jengging Circle, Arunachal Pradesh",,28.611,94.9829,True,,False,2013-09-02,day,downpour,,landslide
+GLC_7493,GLC,Mizoram,,"Ngur, near Mizoram-Myanmar border, India",,23.5397,93.3783,True,,False,2016-07-28,day,continuous_rain,,landslide
+GLC_7503,GLC,Assam,,"Sonaighuli area near Kahilipara, Guwahati City, Assam",,26.1049,91.7369,True,,False,2012-06-25,day,downpour,,landslide
+GLC_7533,GLC,Arunachal Pradesh,,"Arunachal Pradesh, Dibang,",,28.8254,96.1517,True,,False,2012-06-02,day,downpour,,landslide
+GLC_7537,GLC,Arunachal Pradesh,,Type-IV Colony of Seppa in East Kameng,,27.36,93.0385,True,,False,2015-07-15,day,monsoon,,landslide
+GLC_7554,GLC,Assam,,"Batahguli, Guwahati, Assam",,26.1309,91.8383,True,,False,2013-10-06,day,downpour,,landslide
+GLC_7563,GLC,Arunachal Pradesh,,"Mossing(Mosing) village(?), Upper Siang district, Arunachal Pradesh",,28.3036,95.4112,True,,False,2010-09-09,day,downpour,,landslide
+GLC_7582,GLC,Manipur,,"Roads between Tamei(Tamma?), Kangpokpi and Chalwa, Manipur",,25.1555,93.8474,True,,False,2011-05-31,day,continuous_rain,,landslide
+GLC_7617,GLC,Nagaland,,"Bungte Chiru village(?), Senapati district, Manipur",,25.2745,94.0212,True,,False,2010-10-08,day,downpour,,landslide
+GLC_7618,GLC,Mizoram,,"road to Kanan Veng from Hunthar Veng, Mizoram",,23.73504471,92.71060943,True,,False,2010-09-13,day,downpour,,landslide
+GLC_7621,GLC,Assam,,"Silchar-Haflong rd., at Reko(Rekha )(?), near Harangajao, Barail Hills, Assam",,25.0888,92.8551,True,,False,2011-05-24,day,downpour,,complex
+GLC_7644,GLC,Sikkim,,"Daragaon(?), Gangtok city, Sikkim",,27.3392,88.6188,True,,False,2010-08-27,day,downpour,,landslide
+GLC_7689,GLC,Meghalaya,,Byrnihat,,26.048,91.8695,True,,False,2015-09-05,day,unknown,,landslide
+GLC_7709,GLC,Mizoram,,"near Tuichang(?) on Tuichang river, Aizawl-Champhai rd, Mizoram",,23.3439,93.0748,True,,False,2010-09-13,day,downpour,,landslide
+GLC_7711,GLC,Meghalaya,,Akonggre,,25.5084,90.2191,True,,False,2015-06-16,day,downpour,,rock_fall
+GLC_7742,GLC,Assam,,Kangtsung Village,,26.7103,94.693,True,,False,2013-08-11,day,downpour,,landslide
+GLC_7755,GLC,Sikkim,,"North Sikkiim Highway, periphery of Gangtok, Sikkim East district",,27.3543,88.6428,True,,False,2010-05-31,day,downpour,,landslide
+GLC_7760,GLC,Assam,,"Nungba, Tamenglong, Manipur",,24.7679,93.4108,True,,False,2010-10-08,day,downpour,,landslide
+GLC_7829,GLC,Nagaland,,Meluri Sub-Division in Phek District of Nagaland,,25.72,94.6219,True,,False,2015-08-02,day,continuous_rain,,landslide
+GLC_7841,GLC,Nagaland,,"Zunheboto, Nagaland, India",,26.0101,94.5282,True,,False,2016-07-26,day,downpour,,landslide
+GLC_7913,GLC,Nagaland,,"Lower Pezielietsie(Tinpati), Kohima, Manipur",,25.682,94.1076,True,,False,2010-10-09,day,downpour,,landslide
+GLC_7973,GLC,Mizoram,,"Aizawl, Mizoram, India",,23.7348,92.7187,True,,False,2015-09-14,day,downpour,,landslide
+GLC_8034,GLC,Meghalaya,,NH-62 at Sibbari,,25.2193,90.5549,True,,False,2015-08-19,day,continuous_rain,,landslide
+GLC_8037,GLC,Arunachal Pradesh,,"Dolma Lhakang complex, Lumla, Tawang,  Arunachal Pradesh, India",,27.5748,91.8644,True,,False,2016-07-28,day,monsoon,,landslide
+GLC_8089,GLC,Nagaland,,"Senapati, Manipur",,25.318,94.0441,True,,False,2013-08-09,day,downpour,,landslide
+GLC_8113,GLC,Manipur,,Khoupum,,24.7016,93.5291,True,,False,2015-08-11,day,continuous_rain,,landslide
+GLC_8160,GLC,Assam,,"rails between Jatinga and Longrangjao(?), Assam",,25.0633,92.8025,True,,False,2010-06-16,day,downpour,,landslide
+GLC_8162,GLC,Nagaland,,"NH-61, 1 km before reaching Botsa",,25.6703,94.1095,True,,False,2011-07-11,day,downpour,,landslide
+GLC_8291,GLC,Nagaland,,"National Highway-39, Dimapur-Imphal road and another under Kiphire district of Nagaland",,25.705,94.04,True,,False,2008-08-07,day,downpour,,landslide
+GLC_8294,GLC,Nagaland,,Mokokchung,,26.3186,94.5121,True,,False,2011-06-20,day,downpour,,landslide
+GLC_8310,GLC,Manipur,,Ukhrul town Circular road from Rayotang to Viewland Zone II,,25.1122,94.3591,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_8311,GLC,Arunachal Pradesh,,"Tuting, Upper Siang , Arunachal Pradesh",,28.9986,94.8885,True,,False,2012-07-05,day,downpour,,landslide
+GLC_8340,GLC,Nagaland,,"Jahjon ward(?), Mon town, Nagaland",,26.7215,95.0283,True,,False,2010-07-19,day,downpour,,landslide
+GLC_8362,GLC,Sikkim,,Geyzing-Jorethang road and Naya Bazar-Legship road,,27.2872,88.2816,True,,False,2007-09-18,day,rain,,landslide
+GLC_8384,GLC,Mizoram,,"Dawrpui Vengthar cemetary, Aizwal, Mizoram",,23.7365,92.7146,True,,False,2010-08-06,day,downpour,,landslide
+GLC_8395,GLC,Mizoram,,"Dapchhuah, Mamit, Mizoram",,23.7705,92.5217,True,,False,2012-11-11,day,downpour,,landslide
+GLC_8441,GLC,Nagaland,,"Suruhuto Town, Nagaland",,26.1498,94.6055,True,,False,2013-08-04,day,monsoon,,landslide
+GLC_8510,GLC,Nagaland,,"Tuensang-Shamatore(Sampurre) rd, Nagaland",,26.148,94.8422,True,,False,2010-08-14,day,downpour,,landslide
+GLC_8553,GLC,Meghalaya,,"Garo Hills, Tura",,25.5144,90.2167,True,,False,2011-08-16,day,downpour,,landslide
+GLC_8647,GLC,Meghalaya,,"Assam-Agartala National Highway, Sonarpur in Jayantiya hills of Meghalaya",,25.52,91.27,True,,False,2007-09-11,day,rain,,landslide
+GLC_8666,GLC,Assam,,"Kharghuli Hills, Assam",,26.1964,91.7652,True,,False,2014-06-28,day,rain,,landslide
+GLC_8725,GLC,Manipur,,between Tengnoupal-Sita junction and Tengnoupal Power Sub-Station,,24.4265,94.1913,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_8772,GLC,Mizoram,,"Tuikual 'C', Aizawl, Mizoram",,23.72988966,92.71495623,True,,False,2010-09-13,day,downpour,,landslide
+GLC_8775,GLC,Assam,,Guwahati,,26.1833,91.8,True,,False,2007-09-13,day,rain,,landslide
+GLC_8781,GLC,Sikkim,,Hingdam village in South Sikkim,,27.1667,88.35,True,,False,2007-09-09,day,rain,,landslide
+GLC_8814,GLC,Meghalaya,,Jorabat-Umiam route,,25.9702,91.8587,True,,False,2014-10-05,day,rain,,landslide
+GLC_8876,GLC,Sikkim,,"Tathangchen, Gangtok, Sikkim ",,27.339,88.6065,True,,False,2012-06-14,day,downpour,,landslide
+GLC_8906,GLC,Nagaland,,"Mao in Manipur, Phipema and Chunikhudima in Nagaland",,25.4993,94.1192,True,,False,2007-09-09,day,rain,,landslide
+GLC_8945,GLC,Meghalaya,,Tura,,25.5212,90.232,True,,False,2007-07-27,day,rain,,rock_fall
+GLC_8978,GLC,Manipur,,"Wayang, Khengjoi",,23.9278,94.0906,True,,False,2015-08-01,day,rain,,landslide
+GLC_9015,GLC,Manipur,,Tamenglong,,24.9667,93.55,True,,False,2007-08-26,day,continuous_rain,,mudslide
+GLC_9043,GLC,Assam,,"between Haflong and  Bagetar, Assam",,25.1775,93.0123,True,,False,2012-06-03,day,downpour,,landslide
+GLC_9099,GLC,Assam,,"between Maibang and Daotohaja, Assam",,25.3056,93.1265,True,,False,2012-06-03,day,downpour,,landslide
+GLC_9146,GLC,Manipur,,Ukhrul NH 201-Jessami road,,25.1941,94.4481,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_9162,GLC,Nagaland,,"Maram area in Senapati district, National Highway 39",,25.4196,94.1054,True,,False,2010-07-29,day,downpour,,landslide
+GLC_9182,GLC,Nagaland,, Botsa  and Chiechama,,25.83,94.13,True,,False,2011-08-18,day,monsoon,,landslide
+GLC_9194,GLC,Assam,,"Khongsang, Tamenglong, Manipur,",,24.9926,93.4946,True,,False,2013-05-12,day,rain,,mudslide
+GLC_9201,GLC,Mizoram,,"Mizoram, India",,23.4495,92.8112,True,,False,2015-08-28,day,downpour,,landslide
+GLC_9217,GLC,Manipur,,Heibok Hills,,24.7992,93.948,True,,False,2011-07-22,day,downpour,,landslide
+GLC_9226,GLC,Assam,,"Nilachal Hill, Guwahati, Assam",,26.1665,91.7049,True,,False,2013-10-06,day,downpour,,landslide
+GLC_9250,GLC,Nagaland,,"Fazl Ali College, Mokokchung, Nagaland",,26.3335,94.5512,True,,False,2010-06-15,day,downpour,,landslide
+GLC_9255,GLC,Manipur,,Imphal-Ukhrul road,,24.954,94.2156,True,,False,2015-08-01,day,continuous_rain,,landslide
+GLC_9297,GLC,Assam,,"Haflong, Assam",,25.1796,93.0083,True,,False,2010-10-09,day,downpour,,mudslide
+GLC_9302,GLC,Nagaland,,"Maram-Purul Road, Karong Assembly Constituency of Senapati district, Manipur",,25.4379,94.1162,True,,False,2007-10-19,day,rain,,landslide
+GLC_9316,GLC,Nagaland,,"NH-39 at Piphema,  6 km towards Dimapur from Kohima in Nagaland",,25.7055,94.0132,True,,False,2007-10-16,day,rain,,landslide
+GLC_9324,GLC,Arunachal Pradesh,,"Hoj-Potin Highway, Arunachal Pradesh, India",,27.3034,93.804,True,,False,2016-07-16,day,downpour,,mudslide
+GLC_9327,GLC,Arunachal Pradesh,,"Mosing village, Upper Siang district, Arunachal Pradesh",,28.3092,95.4149,True,,False,2010-10-03,day,downpour,,landslide
+GLC_9337,GLC,Nagaland,,Kiphire-Seyochung road near Yangzitong village,,25.9466,94.6279,True,,False,2014-09-08,day,unknown,,mudslide
+GLC_9384,GLC,Assam,,"rails between Mahur and Wadringdisa(?), Assam",,25.2269,93.1658,True,,False,2010-06-15,day,downpour,,landslide
+GLC_9416,GLC,Nagaland,,"Mon, Nagaland",,26.7225,95.0281,True,,False,2010-07-06,day,monsoon,,mudslide
+GLC_9420,GLC,Manipur,,Chandel,,24.3481,94.1146,True,,False,2015-08-01,day,unknown,,landslide
+GLC_9457,GLC,Assam,,Kailashpur hill,,26.1468,91.6469,True,,False,2015-02-14,day,mining,,landslide
+GLC_9468,GLC,Meghalaya,,Shillong-Jowai(Jwai)-Badarpur National Highway(NH 44) at Sunapur village in Jaintia Hills District,,25.3612,92.2845,True,,False,2010-04-21,day,downpour,,landslide
+GLC_9476,GLC,Assam,,"Hailākāndi : Two labourers died while another was injured in a landslide in Assam's Hailakandi district, the police said today.",,24.6108,92.562,True,,False,2015-02-19,day,mining,,landslide
+GLC_9477,GLC,Meghalaya,,National Highway 51,,25.7354,90.3852,True,,False,2014-09-21,day,continuous_rain,,landslide
+GLC_9489,GLC,Meghalaya,,Meghalaya,,25.8143,90.5763,True,,False,2014-09-24,day,continuous_rain,,landslide
+GLC_9490,GLC,Nagaland,,power lines 5 km from Kohima,,25.63961883,94.11112157,True,,False,2010-09-12,day,downpour,,landslide
+GLC_9502,GLC,Assam,,"Ramchandi , Hailakandi District, Assam, India",,24.5308,92.5121,True,,False,2016-05-18,day,continuous_rain,,landslide
+GLC_9509,GLC,Sikkim,,Legship,,27.2676,88.2891,True,,False,2016-10-12,day,continuous_rain,,landslide
+GLC_9546,GLC,Mizoram,,three graveyards within Aizawl,,23.7269,92.7265,True,,False,2015-08-27,day,downpour,,landslide
+GLC_9569,GLC,Manipur,,NH-2 between Senapati and Mao,,25.3908,94.0926,True,,False,2015-07-22,day,continuous_rain,,landslide
+GLC_9585,GLC,Tripura,,"Purba Simna, Tripura",,24.0896,91.4663,True,,False,2013-05-08,day,rain,,landslide
+GLC_9615,GLC,Assam,,"Noonmati, Guwahati, Assam, India",,26.1966,91.802,True,,False,2016-07-20,day,rain,,landslide
+GLC_9649,GLC,Assam,,"between Mahur and Maigrandisa(?) or Lumding, Assam",,25.4749,93.1477,True,,False,2010-10-09,day,downpour,,landslide
+GLC_9657,GLC,Assam,,Lalmati,,26.1097,91.7747,True,,False,2014-09-22,day,rain,,landslide
+GLC_9680,GLC,Nagaland,,"Dikhu bridge(?), Mokokchung-Tuensang road, Nagaland",,26.2753,94.6654,True,,False,2010-08-17,day,downpour,,landslide
+GLC_9708,GLC,Assam,,Pamohi,,26.1001,91.6849,True,,False,2014-09-22,day,rain,,landslide
+GLC_9734,GLC,Arunachal Pradesh,,"5 km off Sangam point on Aalo- Pangin road, Arunachal Pradesh, India",,28.235,94.9612,True,,False,2016-07-19,day,downpour,,landslide
+GLC_9872,GLC,Assam,,Guwahati,,26.1699,91.7986,True,,False,2007-07-19,day,rain,,landslide
