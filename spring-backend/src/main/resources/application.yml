@@ -1,0 +1,89 @@
+spring:
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:dev}
+  application:
+    name: ner-landslide-backend
+
+  # Database is now owned entirely by Supabase (see the supabase-backend
+  # project's supabase/migrations/*.sql). This service connects directly
+  # to Supabase's Postgres/PostGIS instance via the session pooler and no
+  # longer manages its own schema — Flyway has been removed.
+  datasource:
+    url: ${SUPABASE_DB_URL:jdbc:postgresql://aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres?sslmode=require&prepareThreshold=0}
+    username: ${SUPABASE_DB_USERNAME:postgres.qgbuykheqsvinjymrsig}
+    password: ${SUPABASE_DB_PASSWORD:Devbase@09#12}
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      max-lifetime: 60000
+      idle-timeout: 30000
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        format_sql: false
+        jdbc:
+          time_zone: UTC
+    open-in-view: false
+
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+      password: ${REDIS_PASSWORD:}
+      timeout: 3000ms
+
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS:localhost:9092}
+
+server:
+  port: ${SERVER_PORT:8082}
+  error:
+    include-message: always
+
+app:
+  # Auth is now handled entirely by Supabase Auth (the frontend calls
+  # supabase-js signUp/signInWithPassword directly). This backend only
+  # verifies the Supabase-issued JWT on incoming requests — it never
+  # issues tokens of its own anymore.
+  supabase:
+    jwt-secret: ${SUPABASE_JWT_SECRET:rYLZxsIUNZyLTVMX1ovndzpiclnH+JxuKfGRPVLuKs4zsHsR3Pfh1lHxtlXcclv5+3AsWkd0yJ4Laj87bawHwQ==}
+
+  ml-service:
+    url: ${ML_SERVICE_URL:http://localhost:8000}
+
+  weather-service:
+    url: ${WEATHER_API_URL:https://api.weather-provider.example.com/v1}
+    api-key: ${WEATHER_API_KEY:}
+
+  satellite-service:
+    url: ${SATELLITE_API_URL:}
+    mock-enabled: ${SATELLITE_MOCK_ENABLED:true}
+
+  jobs:
+    weather-ingestion-interval-ms: ${WEATHER_INGESTION_INTERVAL_MS:1800000}   # 30 min
+    prediction-refresh-interval-ms: ${PREDICTION_REFRESH_INTERVAL_MS:3600000} # 1 hour
+    alert-expiry-check-interval-ms: ${ALERT_EXPIRY_CHECK_INTERVAL_MS:600000}  # 10 min
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v3/api-docs
+
+logging:
+  level:
+    root: INFO
+    com.ner.landslide: DEBUG
+    org.hibernate.SQL: WARN

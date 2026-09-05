@@ -1,0 +1,18 @@
+# Development profile: uses fallback in-memory caching and mock Kafka for local running,
+# while connecting to the Supabase database configured in application.yml.
+spring:
+  data:
+    redis:
+      enabled: false
+  kafka:
+    enabled: false
+
+management:
+  health:
+    redis:
+      enabled: false
+
+logging:
+  level:
+    root: INFO
+    com.ner.landslide: DEBUG

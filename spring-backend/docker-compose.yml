@@ -1,0 +1,68 @@
+version: "3.8"
+
+# Postgres/PostGIS is no longer run here — this service now connects to
+# Supabase's Postgres instead (either the hosted project, or a local
+# Supabase stack started separately from the supabase-backend project
+# with `supabase start`, which listens on localhost:54322). Point
+# SUPABASE_DB_URL/USERNAME/PASSWORD below at whichever one you're using.
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: landslide-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.6.0
+    container_name: landslide-zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+    image: confluentinc/cp-kafka:7.6.0
+    container_name: landslide-kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: landslide-backend
+    depends_on:
+      redis:
+        condition: service_healthy
+      kafka:
+        condition: service_started
+    ports:
+      - "8080:8080"
+    environment:
+      # Point at your Supabase project (Settings > Database > Connection
+      # string) or a local `supabase start` stack — see the comment above.
+      SUPABASE_DB_URL: jdbc:postgresql://host.docker.internal:54322/postgres
+      SUPABASE_DB_USERNAME: postgres
+      SUPABASE_DB_PASSWORD: postgres
+      # Settings > API > JWT Secret in the Supabase dashboard.
+      SUPABASE_JWT_SECRET: change-this-to-your-supabase-project-jwt-secret
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      KAFKA_BOOTSTRAP_SERVERS: kafka:29092
+      ML_SERVICE_URL: http://ml-service:8000
+      WEATHER_API_URL: https://api.weather-provider.example.com/v1
+      SATELLITE_MOCK_ENABLED: "true"
